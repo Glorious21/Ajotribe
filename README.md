@@ -6,7 +6,7 @@
 
 ## The Problem
 
-Millions of informal workers across Africa — market women, food vendors, tailors, artisans — already save. They already contribute. They already support each other through emergencies.
+Millions of informal workers across Africa ; market women, food vendors, tailors, artisans already save. They already contribute. They already support each other through emergencies.
 
 But every existing financial tool was built for someone else.
 
