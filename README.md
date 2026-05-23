@@ -10,7 +10,7 @@ Millions of informal workers across Africa — market women, food vendors, tailo
 
 But every existing financial tool was built for someone else.
 
-Banks require documents they don't have. Apps assume smartphones and internet they can't afford. Nobody speaks their language — literally.
+Banks require documents they don't have. Apps assume smartphones and internet they can't afford. Nobody speaks their language literally.
 
 **Ajotribe changes that.**
 
@@ -33,7 +33,7 @@ Built on Bitcoin's Lightning Network (invisible to users). Accessible on any pho
 | 💰 Flexible savings | Save as little as ₦100 at a time |
 | 🔄 Digital savings circles | Create or join ajo/adashe/esusu groups digitally |
 | 🆘 Emergency support pools | Community-funded emergency assistance for health, school fees, business recovery |
-| ⚡ Bitcoin Lightning backend | Powers settlement and value protection — users never see wallets or blockchain terms |
+| ⚡ Bitcoin Lightning backend | Powers settlement and value protection  users never see wallets or blockchain terms |
 | 📟 USSD offline mode | Works on any basic phone with zero internet by dialing `*347#` |
 
 ---
@@ -43,7 +43,7 @@ Built on Bitcoin's Lightning Network (invisible to users). Accessible on any pho
 For users with no smartphone or data — dial `*347#` on any basic phone:
 
 ```
-Welcome to AJOFI
+Welcome to Ajotribe
 *347#
 
 1. Save Money
@@ -61,7 +61,7 @@ Works on a ₦3,000 Nokia feature phone. No internet required. Syncs to the main
 
 **Amina** — market woman in Kano. Sells tomatoes daily. Hands ₦200 to her adashe collector every morning. Has no way to track her savings or know when her payout comes. Has a basic Android phone she mostly uses for calls and WhatsApp.
 
-Ajotribe was built for Amina — and the millions like her across Nigeria and Africa.
+Ajotribe was built for Amina and the millions like her across Nigeria and Africa.
 
 **Not for:** crypto traders, tech-savvy urban users already served by Kuda/Opay/Palmpay, or anyone with active bank access.
 
@@ -69,7 +69,7 @@ Ajotribe was built for Amina — and the millions like her across Nigeria and Af
 
 ## Why Bitcoin
 
-Bitcoin's Lightning Network runs silently in the background — powering fast, low-cost settlements and protecting the value of savings. Users experience a simple, familiar savings app. They never see wallets, keys, or blockchain terminology.
+Bitcoin's Lightning Network runs silently in the background, powering fast, low-cost settlements and protecting the value of savings. Users experience a simple, familiar savings app. They never see wallets, keys, or blockchain terminology.
 
 Financial freedom infrastructure. Community first.
 
