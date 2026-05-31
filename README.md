@@ -57,7 +57,7 @@ Ajotribe meets users where they are:
 ---
 
 ## Links
-- GitHub Repo: [Ajotribe](https://github.com/Glorious21/Ajotribe)
+- GitHub Repo: [Ajotribe] https://github.com/Glorious21/Ajotribe1
 - Demo: [add demo link if available]
 
 ---
